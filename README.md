@@ -1,2 +1,7 @@
 # iterm-colors
-Personalized iTerm2 Colors
+
+A Collection of iTerm2 Colors I Use Sometimes.
+
+## Maintainer
+
+🥃 J.Stone 💎
